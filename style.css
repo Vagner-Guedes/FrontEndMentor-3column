@@ -157,7 +157,7 @@ button {
 /* Media Queries */
 
 @media screen and (max-width: 768px) {
-    .columns {
+    .colums {
       width: 100%;
       flex-direction: column;
     }
